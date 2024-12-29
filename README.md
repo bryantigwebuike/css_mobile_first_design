@@ -1,4 +1,4 @@
-##CSS Mobile-first Design.
+## CSS Mobile-first Design.
 
 Built a portfolio website to practice css mobile-first design. 
 
